@@ -4,7 +4,7 @@
     <title>Welcome User</title>
 </head>
 <body>
-<p>Hello!</p>
+<p>Hello There!!</p>
 <?php
     // Get current date and time
     $current_date = date("Y-m-d H:i:s");
@@ -17,5 +17,5 @@
     echo "<p>$welcome_message</p>";
 ?>
 
-</body>
+</body >
 </html>
